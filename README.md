@@ -24,7 +24,7 @@ This repo holds no code. It holds:
 | Repo | Role in FreeTrust |
 | --- | --- |
 | [BYOID](https://github.com/rhovision-org/BYOID) | Self-sovereign identity: DIDs on rholo, credentials, selective disclosure, recovery. See its [roadmap](https://github.com/rhovision-org/BYOID/blob/main/ROADMAP.md) and [contract plan](https://github.com/rhovision-org/BYOID/blob/main/docs/contracts.md) |
-| [rholo](https://github.com/rhovision-org/rholo) | The Rholang node that DIDs, contracts and native computations run on |
+| [rholo](https://github.com/rhovision-org/rholo) | The trust less Rholang blockchain that DIDs, contracts and native computations run on |
 | [quantum-os](https://github.com/rhovision-org/quantum-os) | Peer-to-peer rooms with capability tokens, group decisions and governance |
 | [rhogov](https://github.com/rhovision-org/rhogov) | Governance on rholo: groups, liquid democracy, web of trust, censure |
 | [quantum-logical-framework](https://github.com/rhovision-org/quantum-logical-framework) | The formal foundation, verified in Lean, including the maximum relative entropy work |
