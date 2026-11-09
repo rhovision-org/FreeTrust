@@ -14,7 +14,8 @@ This repo holds no code. It holds:
 
 - [CAPABILITIES.md](CAPABILITIES.md): each FreeTrust capability, the modern
   approach, the repo that owns it, and the issues that track it.
-- [DECISIONS.md](DECISIONS.md): choices that apply across repos.
+- [DECISIONS.md](DECISIONS.md): where each repo records its decisions, plus
+  the choices that apply across repos.
 
 ## The projects
 
