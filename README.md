@@ -14,6 +14,8 @@ This repo holds no code. It holds:
 
 - [CAPABILITIES.md](CAPABILITIES.md): each FreeTrust capability, the modern
   approach, the repo that owns it, and the issues that track it.
+- [COOPERATIVE.md](COOPERATIVE.md): a proposed platform cooperative that
+  owns and governs FreeTrust, starting with a BYOID community in rhogov.
 - [DECISIONS.md](DECISIONS.md): where each repo records its decisions, plus
   the choices that apply across repos.
 
