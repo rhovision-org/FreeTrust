@@ -4,7 +4,7 @@
 trusted through people you know.**
 
 FreeTrust is the umbrella vision behind several rhovision-org projects. It
-started around 2016 as voluntary web-of-trust identity on the Synereo
+started around 2016 as voluntary web-of-trust identity on the Rholo Rholang blockchain
 platform, with blockchain provenance, integration with the national identity
 ecosystem, and user managed authorization (UMA). The goals still hold. The
 technology has moved on, so this repo maps each FreeTrust capability to the
